@@ -3,7 +3,6 @@
 
 def usd_to_eur(amount)
   new_currency = amount * 0.86
-  
 end
 
 def eur_to_usd(amount)
